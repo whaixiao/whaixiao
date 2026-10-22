@@ -49,8 +49,8 @@ Desarrollador enfocado en construir aplicaciones web y móviles robustas, limpia
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whaixiao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaixiao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whaixiao&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaixiao&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 ---
