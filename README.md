@@ -55,10 +55,7 @@ Desarrollador enfocado en construir aplicaciones web y móviles robustas, limpia
 
 ---
 
-### 📬 Conecta conmigo
 
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com)
-- **Email:** tu-correo@ejemplo.com
 
 <!--
 **whaixiao/whaixiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
